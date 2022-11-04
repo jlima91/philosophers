@@ -25,7 +25,7 @@ This project is a training to multi-threads/multi-process programming with the u
 This project is a good lesson in C optimization as we need to save every bit of CPU usage we can to ensure
 the survival of our philosophers.
 ```
-This program simulates the famous [Dining Philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem/).
+This program simulates the famous [Dining Philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem).
 
 You can read the project subject [here](https://github.com/jlima91/philosophers_42/blob/master/philosophers.pdf).
 
